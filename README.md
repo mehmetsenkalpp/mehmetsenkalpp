@@ -11,7 +11,7 @@ I'm Software Test Specialist
 src="https://img.shields.io/github/followers/mehmetsenkalpp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,bootstrap,js,angular,java,spring,selenium,maven,mysql,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,py,selenium,mysql,postman,)](https://skillicons.dev)
 
 
 ### Socials
