@@ -12,7 +12,7 @@ Cyber Security -> Penetration Test
 src="https://img.shields.io/github/followers/mehmetsenkalpp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,py,flask,django,mysql,mongodb,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,java,spring,mysql,mongodb,postman)](https://skillicons.dev)
 
 
 ### Socials
