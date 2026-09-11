@@ -13,7 +13,7 @@ Software Developer(Javascript)
 src="https://img.shields.io/github/followers/mehmetsenkalpp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,bootstrap,js,nodejs,express,nestjs,selenium,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,bootstrap,js,nodejs,express,vue,nuxt,selenium,mysql,sqlite)](https://skillicons.dev)
 
 
 ### Badges
