@@ -1,19 +1,19 @@
 Hi 👋 My name is Mehmet Şenkalp
 ==============================
 
-Software Developer(Javascript)
+Software Developer(Gis and Python)
 
 ----------------------
 
 * 🌍  I'm based in Türkiye 
 * ✉️  You can contact me at [mehmetsenkalpsocial@gmail.com](mailto:mehmetsenkalpsocial@gmail.com)
-* ✉️  I develop javascript and sql projects.
+* ✉️  I develop python and gid projects.
   
 <a href="https://www.github.com/mehmetsenkalpp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mehmetsenkalpp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,bootstrap,js,nodejs,express,vue,nuxt,selenium,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sublime,html,css,bootstrap,py,django,fastapi,heroku,selenium,mysql,sqlite)](https://skillicons.dev)
 
 
 ### Badges
